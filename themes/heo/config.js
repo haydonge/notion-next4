@@ -1,12 +1,12 @@
 const CONFIG = {
   HOME_BANNER_ENABLE: true,
 
-  SITE_CREATE_TIME: '2023-04-21', // 建站日期，用于计算网站运行的第几天
+  SITE_CREATE_TIME: '2016-04-21', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到海外代孕库', url: 'https://ivf.geoivf.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.geoivf.com' }
+    { title: '欢迎来到海外代孕', url: 'https://ivf.geoivf.com' },
+    { title: '访问GEOIVF.COM获取更多帮助', url: 'https://geoivf.com' }
   ],
 
   // 英雄区(首页顶部大卡)
@@ -17,8 +17,8 @@ const CONFIG = {
   HERO_TITLE_5: '自卵捐卵,单身夫妻代孕',
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '医学名词', url: '/tag/医学名词' },
-  HERO_CATEGORY_2: { title: '代孕法律', url: '/tag/代孕' },
-  HERO_CATEGORY_3: { title: '工具文件', url: '/tag/工具' },
+  HERO_CATEGORY_2: { title: '代孕价格', url: '/tag/代孕价格' },
+  HERO_CATEGORY_3: { title: '代孕准备文件', url: '/tag/工具' },
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
